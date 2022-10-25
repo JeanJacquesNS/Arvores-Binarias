@@ -62,7 +62,7 @@ public class ImprimirArvore {
             if (i > 0) {
                 for (int j = 0; j < line.size(); j++) {
 
-                    // split node
+                    // dividir o nó
                     char c = ' ';
                     if (j % 2 == 1) {
                         if (line.get(j - 1) != null) {
@@ -73,7 +73,7 @@ public class ImprimirArvore {
                     }
                     System.out.print(c);
 
-                    // lines and spaces
+                    // linhas e espaços
                     if (line.get(j) == null) {
                         for (int k = 0; k < perpiece - 1; k++) {
                             System.out.print(" ");
@@ -92,7 +92,7 @@ public class ImprimirArvore {
                 System.out.println();
             }
 
-            // print line of numbers
+            // Imprimir linha de números
             for (int j = 0; j < line.size(); j++) {
 
                 String f = line.get(j);
@@ -100,7 +100,7 @@ public class ImprimirArvore {
                 int gap1 = (int) Math.ceil(perpiece / 2f - f.length() / 2f);
                 int gap2 = (int) Math.floor(perpiece / 2f - f.length() / 2f);
 
-                // a number
+                // um número
                 for (int k = 0; k < gap1; k++) {
                     System.out.print(" ");
                 }
