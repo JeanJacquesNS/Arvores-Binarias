@@ -5,10 +5,6 @@ import java.util.Scanner;
 
 /**
  * @author Jean Jacques N. Shimwa
- * @author Dava, Rafael
- * @author Cumbane, Malingas
- * @author Dima, Valdemiro
- * @author Zengeni, Kevin
  * @created 14-09-2022 - 4:12 PM
  */
 public class TestarArvore {
