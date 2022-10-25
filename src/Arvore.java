@@ -7,10 +7,6 @@ import java.util.Stack;
 
 /**
  * @author Jean Jacques N. Shimwa
- * @author Dava, Rafael
- * @author Cumbane, Malingas
- * @author Dima, Valdemiro
- * @author Zengeni, Kevin
  * @created 14-09-2022 - 2:23 PM
  */
 public class Arvore<T extends Comparable<? super T>> {
