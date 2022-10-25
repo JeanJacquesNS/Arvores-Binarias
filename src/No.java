@@ -1,9 +1,5 @@
 /**
  * @author Jean Jacques N. Shimwa
- * @author Dava, Rafael
- * @author Cumbane, Malingas
- * @author Dima, Valdemiro
- * @author Zengeni, Kevin
  * @created 14-09-2022 - 2:16 PM
  */
 public class No<T extends Comparable<? super T>> {
