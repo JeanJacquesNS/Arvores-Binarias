@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PrettyPrintTreeJava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PrettyPrintTreeJava-main/PrettyPrintTreeJava-main/PrettyPrintTreeJava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/../PrettyPrintTreeJava-main/PrettyPrintTreeJava-main/PrettyPrintTreeJava.jar!/" recursive="false" />
+  </library>
+</component>
